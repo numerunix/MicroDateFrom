@@ -1,0 +1,34 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.3.0"
+  },
+  "fitbit": {
+    "appUUID": "ae996709-9bfb-4d04-94d2-0623edcf261f",
+    "appType": "app",
+    "appDisplayName": "MicroDateFrom",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "MicroDateFrom"
+      },
+      "it-IT": {
+        "name": "MicroDateFrom"
+      },
+      "nl-NL": {
+        "name": "MicroDateFrom"
+      },
+      "es-ES": {
+        "name": "MicroDateFrom"
+      },
+      "fr-FR": {
+        "name": "MicroDateFrom"
+      }
+    },
+    "defaultLanguage": "it-IT"
+  }
+}
