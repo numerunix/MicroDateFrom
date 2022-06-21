@@ -8,7 +8,7 @@ msgid "giorni fa"
 msgstr "Tagen"
 
 msgid "E' il vostro anniversario"
-msgstr "Es ist dein Jubiläum"
+msgstr "Es ist dein Jubil0x00E4um"
 
 msgid "E' il vostro meseversario"
-msgstr "EEs ist dein Jubiläum"
+msgstr "Es ist dein Jubil0x00E4um"
