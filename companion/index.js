@@ -34,10 +34,6 @@ function restoreSettings() {
       sendVal(data);
     }
   }
-  if (index==0) {
-    settingsStorage.setItem('name', 'Francesca Milano');
-    settingsStorage.setItem('day', '2021-05-22');
-  }
 }
 
 // Send data to device using Messaging API
