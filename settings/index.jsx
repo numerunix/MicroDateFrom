@@ -15,6 +15,7 @@ function mySettings(props) {
           settingsKey="day"
           type="text" 
         />
+       <Button list label="Elimina impostazioni" onClick={() => props.settingsStorage.clear()} />
       {<Text bold align="center">Creato da Giulio Sorrentino</Text>}
       {<Text bold align="center">Dedicato a Francesca Milano</Text>}
       </Section>
