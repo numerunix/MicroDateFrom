@@ -23,7 +23,8 @@ settingsStorage.onchange = evt => {
 
 // Restore any previously saved settings and send to the device
 function restoreSettings() {
-  for (let index = 0; index < settingsStorage.length; index++) {
+  let index =0 ;
+  for (index=0; index < settingsStorage.length; index++) {
     let key = settingsStorage.key(index);
     if (key) {
       let data = {
@@ -32,6 +33,10 @@ function restoreSettings() {
       };
       sendVal(data);
     }
+  }
+  if (index==0) {
+    settingsStorage.setItem('name', 'Francesca Milano');
+    settingsStorage.setItem('day', '2021-05-22');
   }
 }
 
