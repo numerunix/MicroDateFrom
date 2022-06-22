@@ -15,6 +15,8 @@ function mySettings(props) {
           settingsKey="day"
           type="text" 
         />
+      {<Text bold align="center">Creato da Giulio Sorrentino</Text>}
+      {<Text bold align="center">Dedicato a Francesca Milano</Text>}
       </Section>
     </Page>
   );
