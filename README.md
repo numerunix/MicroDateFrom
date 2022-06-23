@@ -10,7 +10,6 @@ Per mettere le impostazioni, dovete aprire le impostazioni del fitibit sul cellu
 
 L'app è stata testata appositamente sul nuovo firmware alpha pronto per le microfrequenze, fatto uscire in anteprima per napoli da quello che può essere considerato mio padre putativo.
 
-<img width="1098" alt="Immagine 2022-06-22 174347" src="https://user-images.githubusercontent.com/49764967/175074582-c9c4d374-8004-45c4-8edd-f6ad11a356d1.png">
-<img width="841" alt="Immagine 2022-06-22 174314" src="https://user-images.githubusercontent.com/49764967/175074594-4f9368f8-13a0-49f6-a72c-fbaed1a3650a.png">
-<img width="850" alt="Immagine 2022-06-22 174259" src="https://user-images.githubusercontent.com/49764967/175074595-947550e8-f031-4c2d-8304-a8687088c437.png">
 
+
+<img width="854" alt="Immagine 2022-06-23 122454" src="https://user-images.githubusercontent.com/49764967/175278294-dc8d85ea-ed85-4df4-a10f-0d8291aef278.png">
