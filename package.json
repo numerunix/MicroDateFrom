@@ -3,7 +3,7 @@
     "@fitbit/sdk": "~4.3.0"
   },
   "fitbit": {
-    "appUUID": "d0533bb8-090c-4ca7-9ecd-8bc82dd75cf5",
+    "appUUID": "",
     "appType": "app",
     "appDisplayName": "MicroDateFrom",
     "iconFile": "resources/icon.png",
