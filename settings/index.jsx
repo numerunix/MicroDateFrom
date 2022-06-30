@@ -13,7 +13,7 @@ function mySettings(props) {
           label="Giorno di conoscenza (aaa-mm-gg): "
           title="Giorno"
           settingsKey="day"
-          type="text" 
+          type="date" 
         />
        <Button list label="Elimina impostazioni" onClick={() => props.settingsStorage.clear()} />
       {<Text bold align="center">Creato da Giulio Sorrentino</Text>}
