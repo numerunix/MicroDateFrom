@@ -3,9 +3,9 @@ import { gettext } from "i18n";
 import * as messaging from "messaging";
 
 
-let data = document.getElementById('data');
-let nome = document.getElementById('nome');
-let avviso = document.getElementById('avviso');
+var data = document.getElementById('data');
+var nome = document.getElementById('nome');
+var avviso = document.getElementById('avviso');
 
 
 // Message is received
