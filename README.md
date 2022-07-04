@@ -1,6 +1,10 @@
 # MicroDateFrom
 Semplice hello world internazionalizzato per le microfrequenze.
 
+# Donazioni
+
+Se vuoi, puoi donare qualcosa, secondo la tua propria opinione, con paypal, per il prezioso lavoro svolto.
+
 # Installazione
 
 Una versione per sense e versa 3 è in fase di approvazione sulla fitbit app gallery.
