@@ -5,6 +5,9 @@ Semplice hello world internazionalizzato per le microfrequenze.
 
 [![paypal](https://www.paypalobjects.com/it_IT/IT/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H4ZHTFRCETWXG)
 
+oppure puoi fare una donazione tramite carta hype.
+
+
 # Installazione
 
 Una versione per sense e versa 3 è in fase di approvazione sulla fitbit app gallery.
