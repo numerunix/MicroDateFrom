@@ -12,6 +12,4 @@ oppure puoi fare una donazione tramite carta hype.
 
 Per l'installazione, scaricatevi il programma dalla fitbit app gallery.
 
-
-
-<img width="854" alt="Immagine 2022-06-23 122454" src="https://user-images.githubusercontent.com/49764967/175278294-dc8d85ea-ed85-4df4-a10f-0d8291aef278.png">
+<img width="785" alt="Immagine 2022-07-20 224409" src="https://user-images.githubusercontent.com/49764967/180078329-67118edb-682e-4675-b539-33738b7ba40c.png">
