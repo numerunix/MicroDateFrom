@@ -1,0 +1,3 @@
+C:\Users\numer\source\repos\MicroDateFrom\MicroDateFrom\obj\Debug\MicroDateFrom.njsproj.AssemblyReference.cache
+C:\Users\numer\source\repos\MicroDateFrom\MicroDateFrom\obj\Debug\MicroDateFrom.njsproj.CoreCompileInputs.cache
+C:\Users\numer\source\repos\MicroDateFrom\MicroDateFrom\bin\Microsoft.NodejsTools.WebRole.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "MicroDateFrom", "MicroDateFrom\MicroDateFrom.njsproj", "{04DB46E6-85E8-4006-AA0C-80DF9B499978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04DB46E6-85E8-4006-AA0C-80DF9B499978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04DB46E6-85E8-4006-AA0C-80DF9B499978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04DB46E6-85E8-4006-AA0C-80DF9B499978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04DB46E6-85E8-4006-AA0C-80DF9B499978}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE5F63BB-5C27-41DE-80EC-669A2E0D010B}
+	EndGlobalSection
+EndGlobal

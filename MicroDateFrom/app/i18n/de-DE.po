@@ -1,0 +1,14 @@
+msgid "Hai incontrato"
+msgstr "Du hast"
+
+msgid "circa"
+msgstr "vor"
+
+msgid "giorni fa"
+msgstr "Tagen"
+
+msgid "E' il vostro anniversario"
+msgstr "Es ist dein Jubil0x00E4um"
+
+msgid "E' il vostro meseversario"
+msgstr "Es ist dein Jubil0x00E4um"
