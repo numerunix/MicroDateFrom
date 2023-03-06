@@ -13,3 +13,8 @@ msgstr "È il vostro anniversario"
 msgid "E' il vostro meseversario"
 msgstr "È il vostro mesiversario"
 
+msgid "Valore non valido"
+msgstr "valore non valido"
+
+msgid "giorni sono passati"
+msgstr "giorni son passati"

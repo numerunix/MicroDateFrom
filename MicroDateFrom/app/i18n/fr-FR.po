@@ -2,7 +2,7 @@ msgid "Hai incontrato"
 msgstr "Vous avez rencontr0x00E9"
 
 msgid "circa"
-msgstr "il y a"
+msgstr "environ"
 
 msgid "giorni fa"
 msgstr "jours"
@@ -13,3 +13,8 @@ msgstr "Es tu aniversario"
 msgid "E' il vostro meseversario"
 msgstr "C'est ton anniversaire"
 
+msgid "Valore non valido"
+msgstr "rvalue invalide"
+
+msgid "giorni sono passati"
+msgstr "jours se sont écoulés"

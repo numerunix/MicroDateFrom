@@ -1,20 +1,20 @@
 msgid "Hai incontrato"
-msgstr "Conosciste a"
+msgstr "Você conheceu"
 
 msgid "circa"
-msgstr "aproximadamente"
+msgstr "sobre"
 
 msgid "giorni fa"
-msgstr "hace dias"
+msgstr "gdias atrás"
 
 msgid "E' il vostro anniversario"
-msgstr "Es  tu aniversario"
+msgstr "É seu aniversário"
 
 msgid "E' il vostro meseversario"
-msgstr "Ès tu mes aniversario"
+msgstr "É seu mesiversario"
 
 msgid "Valore non valido"
-msgstr "valor inválido"
+msgstr "valor r inválido"
 
 msgid "giorni sono passati"
-msgstr "dias pasaron"
+msgstr "dias se passaram"
